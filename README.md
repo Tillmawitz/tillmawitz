@@ -1,4 +1,7 @@
-## Hi there 👋
+# Check Out my Work
+
+Want to see some of my most interesting projects? Check out the READMEs of my pinned repositories which will direct you to projects such as my thesis on scaling Graph Neural Networks, analysis of recommender models, experiments with sentence transformers, and more!
+
 
 <!--
 **Tillmawitz/tillmawitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
