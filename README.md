@@ -1,4 +1,4 @@
-# Check Out my Work
+# Check Out My Work
 
 Want to see some of my most interesting projects? Check out the READMEs of my pinned repositories which will direct you to projects such as my thesis on scaling Graph Neural Networks, an analysis of recommender models, experiments with sentence transformers, and more!
 
